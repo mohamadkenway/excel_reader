@@ -1,0 +1,4 @@
+
+project architecture is clean architecture
+for simplicity use case layer removed from project architecture
+
